@@ -6,7 +6,7 @@
 - 👀 I’m looking for roles as a data analyst, business analyst, or data scientist
 
 ### Connect with me:
-[<img align="left" alt="Email | ericyung1998@gmail.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][email]
+[<img align="left" alt="Email | ericyung1998@gmail.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][email]
 [<img align="left" alt="LinkedIn | ericyung1998" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [email]: mailto:ericyung1998@gmail.com
