@@ -19,7 +19,7 @@
 ### Tools:
 [<img align="left" alt="Microsoft Office" width="26px" src="https://github.com/ericyung1998/ericyung1998/blob/main/office.png" />][linkedin]
 [<img align="left" alt="SAS" width="26px" src="https://github.com/ericyung1998/ericyung1998/blob/main/sas.png" />][linkedin]
-[<img align="left" alt="Minitab" width="24px" src="https://github.com/ericyung1998/ericyung1998/blob/main/minitab.png" />][linkedin]
+[<img align="left" alt="Minitab" width="22px" src="https://github.com/ericyung1998/ericyung1998/blob/main/minitab.png" />][linkedin]
 
 <br>
 
