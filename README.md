@@ -16,10 +16,10 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="Python" width="26px" src="https://github.com/ericyung1998/ericyung1998/blob/main/python.png"/>
-<img align="left" alt="SQL" width="26px" src="https://github.com/ericyung1998/ericyung1998/blob/main/sql.png"/>
-<img align="left" alt="Excel VBA" width="26px" src="https://github.com/ericyung1998/ericyung1998/blob/main/vba.png"/>
-<img align="left" alt="SAS" width="26px" src="https://github.com/ericyung1998/ericyung1998/blob/main/sas.png"/>
-<img align="left" alt="Java" width="26px" src="https://github.com/ericyung1998/ericyung1998/blob/main/java.png"/>
-<img align="left" alt="HTML5" width="26px" src="https://github.com/ericyung1998/ericyung1998/blob/main/html.png"/>
-<img align="left" alt="CSS3" width="26px" src="https://github.com/ericyung1998/ericyung1998/blob/main/css.png"/>
+<img align="left" alt="Python" width="26px" src="https://github.com/ericyung1998/ericyung1998/blob/main/python.png"/>[linkedin]
+<img align="left" alt="SQL" width="26px" src="https://github.com/ericyung1998/ericyung1998/blob/main/sql.png"/>[linkedin]
+<img align="left" alt="Excel VBA" width="26px" src="https://github.com/ericyung1998/ericyung1998/blob/main/vba.png"/>[linkedin]
+<img align="left" alt="SAS" width="26px" src="https://github.com/ericyung1998/ericyung1998/blob/main/sas.png"/>[linkedin]
+<img align="left" alt="Java" width="26px" src="https://github.com/ericyung1998/ericyung1998/blob/main/java.png"/>[linkedin]
+<img align="left" alt="HTML5" width="26px" src="https://github.com/ericyung1998/ericyung1998/blob/main/html.png"/>[linkedin]
+<img align="left" alt="CSS3" width="26px" src="https://github.com/ericyung1998/ericyung1998/blob/main/css.png"/>[linkedin]
