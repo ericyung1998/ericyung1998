@@ -1,4 +1,4 @@
-## Hi there! I'm Eric.
+## Hi there, I'm Eric!
 
 ### I'm a final year student at HKUST majoring in Information Systems and Operations Management
 - 👋 I'm currently finishing up my final semester in university and will be soon looking for work opportunities in the UK
