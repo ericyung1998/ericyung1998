@@ -24,8 +24,8 @@
 <br>
 
 ### Connect with Me:
-[<img align="left" alt="LinkedIn | ericyung1998" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Email | ericyung1998@gmail.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][email]
+[<img align="left" alt="LinkedIn | ericyung1998" width="26px" src="https://github.com/ericyung1998/ericyung1998/blob/main/linkedin.png" />][linkedin]
+[<img align="left" alt="Email | ericyung1998@gmail.com" width="26px" src="https://github.com/ericyung1998/ericyung1998/blob/main/gmail.png" />][email]
 
 [email]: mailto:ericyung1998@gmail.com
 [linkedin]: https://www.linkedin.com/in/ericyung1998
