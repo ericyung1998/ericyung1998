@@ -1,7 +1,7 @@
 ## Hi there! I'm Eric.
 
 ### I'm a final year student at HKUST majoring in Information Systems and Operations Management
-- 👋 I'm currently finishing up my final semester in university and will be looking for work opportunities soon in the UK
+- 👋 I'm currently finishing up my final semester in university and will be soon looking for work opportunities in the UK
 - 🌱 I’m currently learning about everything data! I'm interested in are machine learning, modeling, and time series forecasting
 - 👀 I’m looking for roles as a data analyst, business analyst, or data scientist
 
