@@ -16,6 +16,7 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="Python" width="26px" src="https://github.com/ericyung1998/ericyung1998/blob/main/python.png" />
-<img align="left" alt="Python" width="26px" src="https://github.com/ericyung1998/ericyung1998/blob/main/sql.png" />
-<img align="left" alt="Python" width="26px" src="https://github.com/ericyung1998/ericyung1998/blob/main/vba.png" />
+<img align="left" alt="Python" width="26px" src="https://github.com/ericyung1998/ericyung1998/blob/main/python.png"/>
+<img align="left" alt="SQL" width="26px" src="https://github.com/ericyung1998/ericyung1998/blob/main/sql.png"/>
+<img align="left" alt="Excel VBA" width="26px" src="https://github.com/ericyung1998/ericyung1998/blob/main/vba.png"/>
+<img align="left" alt="Java" width="26px" src="https://github.com/ericyung1998/ericyung1998/blob/main/java.png"/>
