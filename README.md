@@ -5,8 +5,6 @@
 - 🌱 I’m learning about everything data! My interests are machine learning, modeling, and time series forecasting
 - 👀 I’m looking for roles as a data analyst, business analyst, or data scientist
 
-<br>
-
 ### Languages and Tools:
 
 [<img align="left" alt="Python" width="26px" src="https://github.com/ericyung1998/ericyung1998/blob/main/python.png" />][linkedin]
