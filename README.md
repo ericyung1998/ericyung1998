@@ -17,4 +17,4 @@
 ### Languages and Tools:
 
 <img align="left" alt="Python" width="22px" src="https://github.com/ericyung1998/ericyung1998/blob/main/python.png" />
-![Temp](https://github.com/ericyung1998/ericyung1998/blob/main/python.png)
+![alt text](https://github.com/ericyung1998/ericyung1998/blob/main/python.png?raw=true)
