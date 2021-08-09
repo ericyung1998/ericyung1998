@@ -22,9 +22,6 @@
 [<img align="left" alt="SAS" width="26px" src="https://github.com/ericyung1998/ericyung1998/blob/main/sas.png" />][linkedin]
 [<img align="left" alt="Minitab" width="26px" src="https://github.com/ericyung1998/ericyung1998/blob/main/minitab.png" />][linkedin]
 
-<br>
-<br>
-
 ### Highlights:
 
 [![file-index-tool](https://github-readme-stats.vercel.app/api/pin/?username=ericyung1998&repo=customer-attrition)](https://github.com/ericyung1998/customer-attrition)
