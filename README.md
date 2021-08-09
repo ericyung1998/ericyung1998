@@ -24,14 +24,16 @@
 
 <br>
 
-### Stats:
-
-[![Eric's GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ericyung1998&langs_count=3)]()
-[![Eric's Github Stats](https://github-readme-stats.vercel.app/api/?username=ericyung1998&count_private=true&showicons=true)]()
-
 ### Connect with Me:
 [<img align="left" alt="LinkedIn | ericyung1998" width="26px" src="https://github.com/ericyung1998/ericyung1998/blob/main/linkedin.png" />][linkedin]
 [<img align="left" alt="Email | ericyung1998@gmail.com" width="26.5px" src="https://github.com/ericyung1998/ericyung1998/blob/main/gmail.png" />][email]
 
 [email]: mailto:ericyung1998@gmail.com
 [linkedin]: https://www.linkedin.com/in/ericyung1998
+
+<br>
+
+### Stats:
+
+[![Eric's GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ericyung1998&langs_count=3)]()
+[![Eric's Github Stats](https://github-readme-stats.vercel.app/api/?username=ericyung1998&count_private=true&showicons=true)]()
