@@ -20,6 +20,7 @@
 [<img align="left" alt="Minitab" width="26px" src="https://github.com/ericyung1998/ericyung1998/blob/main/minitab.png" />][linkedin]
 
 <br>
+<br>
 
 ### Connect with Me:
 [<img align="left" alt="LinkedIn | ericyung1998" width="26px" src="https://github.com/ericyung1998/ericyung1998/blob/main/linkedin.png" />][linkedin]
@@ -34,6 +35,8 @@
 
 [![file-index-tool](https://github-readme-stats.vercel.app/api/pin/?username=ericyung1998&repo=file-index-tool)](https://github.com/ericyung1998/file-index-tool)
 [![file-index-tool](https://github-readme-stats.vercel.app/api/pin/?username=ericyung1998&repo=file-index-tool)](https://github.com/ericyung1998/file-index-tool)
+
+<br>
 
 ### Stats:
 
