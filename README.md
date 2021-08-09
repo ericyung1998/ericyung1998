@@ -37,8 +37,8 @@
 ### Stats:
 
 <a href="https://github.com/ericyung1998/ericyung1998">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericyung1998&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericyung1998&langs_count=3" />
 </a>
 <a href="https://github.com/ericyung1998/ericyung1998">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ericyung1998&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Eric's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ericyung1998&show_icons=true&line_height=27&count_private=true" alt="Eric's GitHub Stats" />
 </a>
