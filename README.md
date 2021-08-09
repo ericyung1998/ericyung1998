@@ -36,5 +36,5 @@
 <br>
 
 ![Eric's github stats](https://github-readme-stats.vercel.app/api?username=ericyung1998)
-[![Eric's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ericyung1998)](https://github.com/ericyung1998/github-readme-stats)
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ericyung1998&langs_count=3)]()
 
