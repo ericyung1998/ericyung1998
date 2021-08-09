@@ -20,7 +20,7 @@
 [<img align="left" alt="Minitab" width="26px" src="https://github.com/ericyung1998/ericyung1998/blob/main/minitab.png" />][linkedin]
 
 <br>
-
+<br>
 
 ### Highlights:
 
