@@ -32,8 +32,6 @@
 [linkedin]: https://www.linkedin.com/in/ericyung1998
 
 <br>
-<br>
-<br>
 
 ### Stats:
 
