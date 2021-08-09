@@ -24,7 +24,7 @@
 
 ### Highlights:
 
-[![file-index-tool](https://github-readme-stats.vercel.app/api/pin/?username=ericyung1998&repo=customer-attrition-classification)](https://github.com/ericyung1998/customer-attrition-classification)
+[![file-index-tool](https://github-readme-stats.vercel.app/api/pin/?username=ericyung1998&repo=airbnb-dataset-exploration)](https://github.com/ericyung1998/airbnb-dataset-exploration)
 [![file-index-tool](https://github-readme-stats.vercel.app/api/pin/?username=ericyung1998&repo=super-clean)](https://github.com/ericyung1998/super-clean)
 
 ### Stats:
