@@ -17,6 +17,7 @@
 [<img align="left" alt="CSS3" width="30px" src="https://github.com/ericyung1998/ericyung1998/blob/main/css.png" />][linkedin]
 
 [<img align="left" alt="Microsoft Office" width="27px" src="https://github.com/ericyung1998/ericyung1998/blob/main/office.png" />][linkedin]
+[<img align="left" alt="Jupyter Notebook" width="30px" src="https://github.com/ericyung1998/ericyung1998/blob/main/jupyter.png" />][linkedin]
 [<img align="left" alt="SAS" width="30px" src="https://github.com/ericyung1998/ericyung1998/blob/main/sas.png" />][linkedin]
 [<img align="left" alt="Minitab" width="30px" src="https://github.com/ericyung1998/ericyung1998/blob/main/minitab.png" />][linkedin]
 
