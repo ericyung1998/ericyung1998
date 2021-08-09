@@ -37,6 +37,6 @@
 
 [![Eric's GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ericyung1998&langs_count=3)]()
 [![Eric's Github Stats](https://github-readme-stats.vercel.app/api/?username=ericyung1998&count_private=true&showicons=true)]()
-[![Dev.to](https://github-readme-stats.vercel.app/api/pin/?username=ericyung1998&repo=dev.to)](https://github.com/thepracticaldev/dev.to)
+[![file-index-tool](https://github-readme-stats.vercel.app/api/pin/?username=ericyung1998&repo=file-index-tool)](https://github.com/ericyung1998/file-index-tool)
 
 
