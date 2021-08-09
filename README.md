@@ -24,11 +24,6 @@
 
 <br>
 
-### Highlights:
-
-[![file-index-tool](https://github-readme-stats.vercel.app/api/pin/?username=ericyung1998&repo=customer-attrition)](https://github.com/ericyung1998/customer-attrition)
-[![file-index-tool](https://github-readme-stats.vercel.app/api/pin/?username=ericyung1998&repo=super-clean)](https://github.com/ericyung1998/super-clean)
-
 ### Stats:
 
 [![Eric's GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ericyung1998&langs_count=3)]()
