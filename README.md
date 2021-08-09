@@ -20,6 +20,12 @@
 [<img align="left" alt="Minitab" width="26px" src="https://github.com/ericyung1998/ericyung1998/blob/main/minitab.png" />][linkedin]
 
 <br>
+
+### Highlights:
+
+[![file-index-tool](https://github-readme-stats.vercel.app/api/pin/?username=ericyung1998&repo=file-index-tool)](https://github.com/ericyung1998/file-index-tool)
+[![file-index-tool](https://github-readme-stats.vercel.app/api/pin/?username=ericyung1998&repo=file-index-tool)](https://github.com/ericyung1998/file-index-tool)
+
 <br>
 
 ### Connect with Me:
@@ -28,13 +34,6 @@
 
 [email]: mailto:ericyung1998@gmail.com
 [linkedin]: https://www.linkedin.com/in/ericyung1998
-
-<br>
-
-### Highlights:
-
-[![file-index-tool](https://github-readme-stats.vercel.app/api/pin/?username=ericyung1998&repo=file-index-tool)](https://github.com/ericyung1998/file-index-tool)
-[![file-index-tool](https://github-readme-stats.vercel.app/api/pin/?username=ericyung1998&repo=file-index-tool)](https://github.com/ericyung1998/file-index-tool)
 
 <br>
 
