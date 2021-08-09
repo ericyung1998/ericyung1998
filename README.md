@@ -31,7 +31,7 @@
 
 <br>
 
-### Stats:
+### GitHub Stats:
 
 <a href="https://github.com/ericyung1998/ericyung1998">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericyung1998&langs_count=3" />
