@@ -8,33 +8,35 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="Python" width="26px" src="https://github.com/ericyung1998/ericyung1998/blob/main/python.png" />][linkedin]
-[<img align="left" alt="SQL" width="26px" src="https://github.com/ericyung1998/ericyung1998/blob/main/sql.png" />][linkedin]
-[<img align="left" alt="Excel VBA" width="26px" src="https://github.com/ericyung1998/ericyung1998/blob/main/vba.png" />][linkedin]
-[<img align="left" alt="UML" width="26px" src="https://github.com/ericyung1998/ericyung1998/blob/main/uml.png" />][linkedin]
-[<img align="left" alt="Java" width="26px" src="https://github.com/ericyung1998/ericyung1998/blob/main/java.png" />][linkedin]
-[<img align="left" alt="HTML5" width="26px" src="https://github.com/ericyung1998/ericyung1998/blob/main/html.png" />][linkedin]
-[<img align="left" alt="CSS3" width="26px" src="https://github.com/ericyung1998/ericyung1998/blob/main/css.png" />][linkedin]
+[<img align="left" alt="Python" width="30px" src="https://github.com/ericyung1998/ericyung1998/blob/main/python.png" />][linkedin]
+[<img align="left" alt="SQL" width="30px" src="https://github.com/ericyung1998/ericyung1998/blob/main/sql.png" />][linkedin]
+[<img align="left" alt="Excel VBA" width="30px" src="https://github.com/ericyung1998/ericyung1998/blob/main/vba.png" />][linkedin]
+[<img align="left" alt="UML" width="30px" src="https://github.com/ericyung1998/ericyung1998/blob/main/uml.png" />][linkedin]
+[<img align="left" alt="Java" width="30px" src="https://github.com/ericyung1998/ericyung1998/blob/main/java.png" />][linkedin]
+[<img align="left" alt="HTML5" width="30px" src="https://github.com/ericyung1998/ericyung1998/blob/main/html.png" />][linkedin]
+[<img align="left" alt="CSS3" width="30px" src="https://github.com/ericyung1998/ericyung1998/blob/main/css.png" />][linkedin]
 
-<br>
-<br>
-
-[<img align="left" alt="Microsoft Office" width="23px" src="https://github.com/ericyung1998/ericyung1998/blob/main/office.png" />][linkedin]
-[<img align="left" alt="SAS" width="26px" src="https://github.com/ericyung1998/ericyung1998/blob/main/sas.png" />][linkedin]
-[<img align="left" alt="Minitab" width="26px" src="https://github.com/ericyung1998/ericyung1998/blob/main/minitab.png" />][linkedin]
+[<img align="left" alt="Microsoft Office" width="27px" src="https://github.com/ericyung1998/ericyung1998/blob/main/office.png" />][linkedin]
+[<img align="left" alt="Jupyter Notebook" width="30px" src="https://github.com/ericyung1998/ericyung1998/blob/main/jupyter.png" />][linkedin]
+[<img align="left" alt="SAS" width="30px" src="https://github.com/ericyung1998/ericyung1998/blob/main/sas.png" />][linkedin]
+[<img align="left" alt="Minitab" width="30px" src="https://github.com/ericyung1998/ericyung1998/blob/main/minitab.png" />][linkedin]
 
 <br>
 
 ### Connect with Me:
-[<img align="left" alt="LinkedIn | ericyung1998" width="26px" src="https://github.com/ericyung1998/ericyung1998/blob/main/linkedin.png" />][linkedin]
-[<img align="left" alt="Email | ericyung1998@gmail.com" width="26.5px" src="https://github.com/ericyung1998/ericyung1998/blob/main/gmail.png" />][email]
+[<img align="left" alt="LinkedIn | ericyung1998" width="30px" src="https://github.com/ericyung1998/ericyung1998/blob/main/linkedin.png" />][linkedin]
+[<img align="left" alt="Email | ericyung1998@gmail.com" width="30px" src="https://github.com/ericyung1998/ericyung1998/blob/main/gmail.png" />][email]
 
 [email]: mailto:ericyung1998@gmail.com
 [linkedin]: https://www.linkedin.com/in/ericyung1998
 
 <br>
 
-### Stats:
+### GitHub Stats:
 
-[![Eric's GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ericyung1998&langs_count=3)]()
-[![Eric's Github Stats](https://github-readme-stats.vercel.app/api/?username=ericyung1998&count_private=true&showicons=true)]()
+<a href="https://github.com/ericyung1998/ericyung1998">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericyung1998&langs_count=3" />
+</a>
+<a href="https://github.com/ericyung1998/ericyung1998">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ericyung1998&show_icons=true&line_height=27&count_private=true" alt="Eric's GitHub Stats" />
+</a>
