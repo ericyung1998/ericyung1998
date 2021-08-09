@@ -5,7 +5,7 @@
 - 🌱 I’m learning about everything data! My interests are machine learning, modeling, and time series forecasting
 - 👀 I’m looking for roles as a data analyst, business analyst, or data scientist
 
-### Languages:
+### Languages and Tools:
 
 [<img align="left" alt="Python" width="26px" src="https://github.com/ericyung1998/ericyung1998/blob/main/python.png" />][linkedin]
 [<img align="left" alt="SQL" width="26px" src="https://github.com/ericyung1998/ericyung1998/blob/main/sql.png" />][linkedin]
@@ -15,9 +15,6 @@
 [<img align="left" alt="HTML5" width="26px" src="https://github.com/ericyung1998/ericyung1998/blob/main/html.png" />][linkedin]
 [<img align="left" alt="CSS3" width="26px" src="https://github.com/ericyung1998/ericyung1998/blob/main/css.png" />][linkedin]
 
-<br>
-
-### Tools:
 [<img align="left" alt="Microsoft Office" width="23px" src="https://github.com/ericyung1998/ericyung1998/blob/main/office.png" />][linkedin]
 [<img align="left" alt="SAS" width="26px" src="https://github.com/ericyung1998/ericyung1998/blob/main/sas.png" />][linkedin]
 [<img align="left" alt="Minitab" width="26px" src="https://github.com/ericyung1998/ericyung1998/blob/main/minitab.png" />][linkedin]
