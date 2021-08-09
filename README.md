@@ -30,6 +30,13 @@
 
 <br>
 
+### Highlights:
+
+[![file-index-tool](https://github-readme-stats.vercel.app/api/pin/?username=ericyung1998&repo=file-index-tool)](https://github.com/ericyung1998/file-index-tool)
+[![file-index-tool](https://github-readme-stats.vercel.app/api/pin/?username=ericyung1998&repo=file-index-tool)](https://github.com/ericyung1998/file-index-tool)
+
+<br>
+
 ### Stats:
 
 [![Eric's GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ericyung1998&langs_count=3)]()
