@@ -3,7 +3,7 @@
 ### I'm currently a final year student at HKUST majoring in Information Systems and Operations Management
 - ☝️ I'm finishing up my final semester in university and will be soon looking for work opportunities in the UK
     - 🖥️ I've worked [@BofA](https://www.bankofamerica.com/) as a Risk and Finance Technology Summer Analyst and [@Citi](https://www.citi.com/) as a Data and Analytics Placement Analyst
-- 🌱 I’m learning about everything data! My interests are machine learning, modeling, and time series forecasting
+- 🌱 I’m learning about everything data! My interests are machine learning, predictive modeling, and time series forecasting
 - 👀 I’m looking for roles as a data analyst, business analyst, or data scientist
 
 ### Languages and Tools:
