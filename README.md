@@ -3,7 +3,7 @@
 ### I'm a senior [@HKUST](https://hkust.edu.hk/home) double majoring in Information Systems and Operations Management.
 - ☝️ I'm finishing up my final semester at university in <img src="https://github.com/ericyung1998/ericyung1998/blob/main/Images/hk.gif" height="10"/> HK and will be soon looking for work opportunities in the <img src="https://github.com/ericyung1998/ericyung1998/blob/main/Images/gb.gif" height="10"/> UK.
     - 📚 Two notable classes I'm taking right now are Econometrics and Statistical Analysis of Financial Data in R.
-- 🖥️ I've worked [@BofA](https://www.bankofamerica.com/) as a Risk and Finance Technology Summer Analyst and [@Citi](https://www.citi.com/) as a Data and Analytics Placement Analyst.
+- 🖥️ I'm currently working [@JPM](https://www.jpmorganchase.com/) in the Fintech Mentorship Program and have worked [@BofA](https://www.bankofamerica.com/) as a Risk and Finance Technology Summer Analyst and [@Citi](https://www.citi.com/) as a Data and Analytics Placement Analyst.
 - 🌱 I’m learning about everything data - currently data viz and R! My interests are machine learning, algo trading, and forecasting.
 - 👀 I’m looking for roles as a data analyst, business analyst, or data scientist.
 
