@@ -24,10 +24,12 @@
 
 ### Connect with Me:
 [<img align="left" alt="LinkedIn | ericyung1998" width="30px" src="https://github.com/ericyung1998/ericyung1998/blob/main/Images/linkedin.png" />][linkedin]
+[<img align="left" alt="Tableau Public | ericyung1998" width="30px" src="https://github.com/ericyung1998/ericyung1998/blob/main/Images/tableau.png" />][tableau]
 [<img align="left" alt="Email | ericyung1998@gmail.com" width="30px" src="https://github.com/ericyung1998/ericyung1998/blob/main/Images/gmail.png" />][email]
 
-[email]: mailto:ericyung1998@gmail.com
 [linkedin]: https://www.linkedin.com/in/ericyung1998
+[tableau]: https://public.tableau.com/app/profile/ericyung1998
+[email]: mailto:ericyung1998@gmail.com
 
 <br>
 
