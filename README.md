@@ -3,7 +3,7 @@
 ### I'm a graduate [@HKUST](https://hkust.edu.hk/home) double majoring in Information Systems and Operations Management.
 - ☝️ I grew up in <img src="https://github.com/ericyung1998/ericyung1998/blob/main/Images/hk.gif" height="10"/> HK and is now in the <img src="https://github.com/ericyung1998/ericyung1998/blob/main/Images/gb.gif" height="10"/> UK.
 - 🖥️ I've worked [@JPM](https://www.jpmorganchase.com/) in the FinTech Mentorship Program, [@BofA](https://www.bankofamerica.com/) as a Risk and Finance Technology Summer Analyst, and [@Citi](https://www.citi.com/) as a Data and Analytics Placement Analyst.
-- 🌱 I’m learning about C#, .NET framework, data structures, and data algorithms.
+- 🌱 I’m learning about C#, .NET framework, and Angular.
 
 ### Languages and Tools:
 
