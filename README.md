@@ -1,7 +1,8 @@
 ## Hi there, I'm Eric! <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="40" height="40" />
 
-### I'm a graduate [@HKUST](https://hkust.edu.hk/home) double majoring in Information Systems and Operations Management.
+### I'm currently working [@BofA](https://www.bankofamerica.com/) as a Software Engineer within Global Markets
 - ☝️ I grew up in <img src="https://github.com/ericyung1998/ericyung1998/blob/main/Images/hk.gif" height="10"/> HK and is now in the <img src="https://github.com/ericyung1998/ericyung1998/blob/main/Images/gb.gif" height="10"/> UK.
+- 🎓 I've gradauted [@HKUST](https://hkust.edu.hk/home) double majoring in Information Systems and Operations Management.
 - 🖥️ I've worked [@JPM](https://www.jpmorganchase.com/) in the FinTech Mentorship Program, [@BofA](https://www.bankofamerica.com/) as a Risk and Finance Technology Summer Analyst, and [@Citi](https://www.citi.com/) as a Data and Analytics Placement Analyst.
 - 🌱 I’m learning about C#, .NET framework, and Angular.
 
