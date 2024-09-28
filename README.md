@@ -1,14 +1,12 @@
-![hippo](https://camo.githubusercontent.com/d552948e7884c41fde2d32b9221d79f0df2076c7d824aaab954ca93f53d95884/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966)
-
-<img src="[https://github.com/favicon.ico](https://camo.githubusercontent.com/d552948e7884c41fde2d32b9221d79f0df2076c7d824aaab954ca93f53d95884/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966)" width="48">
+<img src="[/images/output/video1.gif](https://github.com/ericyung1998/ericyung1998/blob/main/Images/waving.gif)" width="30px" />
 
 ## Hi there, I'm Eric!
 
 ### Languages and Tools:
 
-[<img align="left" alt="Python" width="30px" src="https://github.com/ericyung1998/ericyung1998/blob/main/Images/python.png" />][linkedin]
-[<img align="left" alt="SQL" width="30px" src="https://github.com/ericyung1998/ericyung1998/blob/main/Images/sql.png" />][linkedin]
-[<img align="left" alt="R" width="30px" src="https://github.com/ericyung1998/ericyung1998/blob/main/Images/r.png" />][linkedin]
+[<img align="left" alt="Python" width="30px" src="https://github.com/ericyung1998/ericyung1998/blob/main/Images/python.png" />][python]
+[<img align="left" alt="SQL" width="30px" src="https://github.com/ericyung1998/ericyung1998/blob/main/Images/sql.png" />][sql]
+[<img align="left" alt="R" width="30px" src="https://github.com/ericyung1998/ericyung1998/blob/main/Images/r.png" />][r]
 
 <br>
 
