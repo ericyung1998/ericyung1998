@@ -1,33 +1,20 @@
 ## Hi there, I'm Eric!
-- ☝️ I grew up in <img src="https://github.com/ericyung1998/ericyung1998/blob/main/Images/hk.gif" height="10"/> HK and is now in <img src="https://github.com/ericyung1998/ericyung1998/blob/main/Images/gb.gif" height="10"/> London.
-- 🎓 I've graduated [@HKUST](https://hkust.edu.hk/home) with a Bachelor in Business Administration with majors in Information Systems and Operations Management.
-- 🌱 I’m learning about Databases, Python, and SQL.
+- ☝️ Currently based in <img src="https://github.com/ericyung1998/ericyung1998/blob/main/Images/gb.gif" height="10"/> London.
 
 ### Languages and Tools:
 
 [<img align="left" alt="Python" width="30px" src="https://github.com/ericyung1998/ericyung1998/blob/main/Images/python.png" />][linkedin]
 [<img align="left" alt="SQL" width="30px" src="https://github.com/ericyung1998/ericyung1998/blob/main/Images/sql.png" />][linkedin]
 [<img align="left" alt="R" width="30px" src="https://github.com/ericyung1998/ericyung1998/blob/main/Images/r.png" />][linkedin]
-[<img align="left" alt="Excel VBA" width="30px" src="https://github.com/ericyung1998/ericyung1998/blob/main/Images/vba.png" />][linkedin]
-[<img align="left" alt="UML" width="30px" src="https://github.com/ericyung1998/ericyung1998/blob/main/Images/uml.png" />][linkedin]
-[<img align="left" alt="Java" width="30px" src="https://github.com/ericyung1998/ericyung1998/blob/main/Images/java.png" />][linkedin]
-[<img align="left" alt="HTML5" width="30px" src="https://github.com/ericyung1998/ericyung1998/blob/main/Images/html.png" />][linkedin]
-[<img align="left" alt="CSS3" width="30px" src="https://github.com/ericyung1998/ericyung1998/blob/main/Images/css.png" />][linkedin]
-
-[<img align="left" alt="Jupyter Notebook" width="30px" src="https://github.com/ericyung1998/ericyung1998/blob/main/Images/jupyter.png" />][linkedin]
-[<img align="left" alt="SAS" width="30px" src="https://github.com/ericyung1998/ericyung1998/blob/main/Images/sas.png" />][linkedin]
-[<img align="left" alt="Minitab" width="30px" src="https://github.com/ericyung1998/ericyung1998/blob/main/Images/minitab.png" />][linkedin]
 
 <br>
 
 ### Connect with Me:
 [<img align="left" alt="LinkedIn | ericyung1998" width="30px" src="https://github.com/ericyung1998/ericyung1998/blob/main/Images/linkedin.png" />][linkedin]
 [<img align="left" alt="Tableau Public | ericyung1998" width="30px" src="https://github.com/ericyung1998/ericyung1998/blob/main/Images/tableau.png" />][tableau]
-[<img align="left" alt="Email | ericyung1998@gmail.com" width="30px" src="https://github.com/ericyung1998/ericyung1998/blob/main/Images/gmail.png" />][email]
 
 [linkedin]: https://www.linkedin.com/in/ericyung1998
 [tableau]: https://public.tableau.com/app/profile/ericyung1998
-[email]: mailto:ericyung1998@gmail.com
 
 <br>
 
