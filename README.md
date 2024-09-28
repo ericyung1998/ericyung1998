@@ -1,4 +1,4 @@
-<img src="[/images/output/video1.gif](https://github.com/ericyung1998/ericyung1998/blob/main/Images/waving.gif)" width="30px" />
+[<img align="left" alt="Hi" width="30px" src="https://github.com/ericyung1998/ericyung1998/blob/main/Images/waving.gif" />][hi]
 
 ## Hi there, I'm Eric!
 
