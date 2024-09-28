@@ -1,5 +1,4 @@
 ## Hi there, I'm Eric!
-- ☝️ Currently based in <img src="https://github.com/ericyung1998/ericyung1998/blob/main/Images/gb.gif" height="10"/> London.
 
 ### Languages and Tools:
 
