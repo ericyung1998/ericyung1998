@@ -1,4 +1,4 @@
-## [<img align="left" alt="Hi" width="30px" src="https://github.com/ericyung1998/ericyung1998/blob/main/Images/waving.gif" />][linkedin]   Hi there, I'm Eric!
+## [<img align="left" alt="Hi" width="30px" src="https://github.com/ericyung1998/ericyung1998/blob/main/Images/waving.gif" />][linkedin]&nbsp;Hi there, I'm Eric!
 
 ### Languages and Tools:
 
